@@ -238,6 +238,17 @@ Remember to **document** each step using `git`.
     Report the execution time (add the log files in the commit).
     Using nvprof, report weights of each OpenACC kernel (the output of nvprof is fine).
 
+## Authors
+
+* **Samuel Rodríguez** Original work ([repo](github.com/srodrb/FWI)) - Former member of the Computer Applications in Science & Engineering (CASE) Department, BSC
+* **Pau Farré** Acceleration using GPUs/OpenACC+CUDA ([repo](github.com/hopobcn/FWI)) - Former member of the Accelcom Group, Computer Sciences Department, BSC
+* Currently maintained by the Accelcom Group members
+
+See also the list of [contributors](https://github.com/accelcom-bsc/FWI/contributors) who participated in this project.
+
+## License
+This project is licensed under the BSD-3 License - see the [LICENSE.md](LICENSE.md) for details.
+
 ### References
 
 [Minotauro User Gudie](http://www.bsc.es/user-support/mt.php)
