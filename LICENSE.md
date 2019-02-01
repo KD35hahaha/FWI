@@ -1,4 +1,4 @@
-_Copyright © `2016-2018`, `Barcelona Supercomputing Center (BSC)`_
+_Copyright © `2016-2019`, `Barcelona Supercomputing Center (BSC)`_
 _All rights reserved._
 
 Redistribution and use in source and binary forms, with or without

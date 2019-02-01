@@ -35,7 +35,7 @@ CUDA prerequisites:
 
 Pull the repo using `git clone`:
 ```bash
-git clone https://github.com/Hopobcn/FWI.git
+git clone https://github.com/accelcom-bsc/FWI.git
 ```
 Download all pre-requisites using `git submodules`:
 ```bash
@@ -128,10 +128,11 @@ make
 ```
 
 ## Authors
-* **Samuel Rodríguez** Original work - [github.com/srodrb/FWI](https://github.com/srodrb)
-* **Pau Farré** Acceleration using GPUs/OpenACC+CUDA
+* **Samuel Rodríguez** Original work ([repo](github.com/srodrb/FWI)) - Former member of the Computer Applications in Science & Engineering (CASE) Department, BSC
+* **Pau Farré** Acceleration using GPUs/OpenACC+CUDA ([repo](github.com/hopobcn/FWI)) - Former member of the Accelcom Group, Computer Sciences Department, BSC
+* Currently maintained by the Accelcom Group members
 
-See also the list of [contributors](https://github.com/hopobcn/FWI/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/accelcom-bsc/FWI/contributors) who participated in this project.
 
 ## License
 This project is licensed under the BSD-3 License - see the [LICENSE.md](LICENSE.md) for details.
