@@ -129,8 +129,8 @@ make
 
 ## Authors
 * **Samuel Rodríguez** Original work ([repo](https://github.com/srodrb/FWI)) - Former member of the Computer Applications in Science & Engineering (CASE) Department, BSC
-* **Pau Farré** Acceleration using GPUs/OpenACC+CUDA ([repo](https://github.com/hopobcn/FWI)) - Former member of the Accelcom Group, Computer Sciences Department, BSC
-* Currently maintained by the Accelcom Group members
+* **Pau Farré** Acceleration using GPUs/OpenACC+CUDA ([repo](https://github.com/hopobcn/FWI)) - Former member of the AccelCom Group, Computer Sciences Department, BSC
+* Currently maintained by the AccelCom Group members <accelcom@bsc.es>
 
 See also the list of [contributors](https://github.com/accelcom-bsc/FWI/contributors) who participated in this project.
 
